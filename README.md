@@ -22,7 +22,6 @@ Where the **Safety Score** is computed as:
 ## 📂 Project Structure
 
 ```text
-├── docs/
-│   ├── requirements.md   <-- Generated via Kiro
-│   └── design.md         <-- Generated via Kiro
-├── README.md             <-- You are here
+|──requirements.md   <-- Generated via Kiro
+|──design.md         <-- Generated via Kiro
+|──README.md         <-- You are here
