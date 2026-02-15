@@ -518,4 +518,4 @@ Final_Safety_Score = (Lighting_Score × 0.30) +
 **Document Version:** 1.0  
 **Last Updated:** February 2026  
 **Project:** Suraksha-Path - AI for Bharat Hackathon  
-**Owner:** [Your Name]
+**Owner:** Shruti Sandal
